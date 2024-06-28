@@ -1,25 +1,42 @@
-[12:20:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:20:42] [ServerMain/INFO]: Loaded 1290 recipes
-[12:20:42] [ServerMain/INFO]: Loaded 1399 advancements
-[12:20:43] [Server thread/INFO]: Starting minecraft server version 1.21
-[12:20:43] [Server thread/INFO]: Loading properties
-[12:20:43] [Server thread/INFO]: Default game type: SURVIVAL
-[12:20:43] [Server thread/INFO]: Generating keypair
-[12:20:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:20:43] [Server thread/INFO]: Using default channel type
-[12:20:43] [Server thread/INFO]: Preparing level "world"
-[12:20:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:20:44] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[12:20:44] [Server thread/INFO]: Time elapsed: 264 ms
-[12:20:44] [Server thread/INFO]: Done (0.786s)! For help, type "help"
-[12:21:06] [Server thread/INFO]: Stopping the server
-[12:21:06] [Server thread/INFO]: Stopping server
-[12:21:06] [Server thread/INFO]: Saving players
-[12:21:06] [Server thread/INFO]: Saving worlds
-[12:21:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:21:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:21:06] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:21:06] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:24:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:24:32] [ServerMain/INFO]: Loaded 1290 recipes
+[12:24:32] [ServerMain/INFO]: Loaded 1399 advancements
+[12:24:33] [Server thread/INFO]: Starting minecraft server version 1.21
+[12:24:33] [Server thread/INFO]: Loading properties
+[12:24:33] [Server thread/INFO]: Default game type: SURVIVAL
+[12:24:33] [Server thread/INFO]: Generating keypair
+[12:24:33] [Server console handler/ERROR]: Exception handling console input
+java.io.IOException: Descripteur non valide
+	at java.base/java.io.FileInputStream.readBytes(Native Method) ~[?:?]
+	at java.base/java.io.FileInputStream.read(FileInputStream.java:287) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:345) ~[?:?]
+	at java.base/java.io.BufferedInputStream.implRead(BufferedInputStream.java:420) ~[?:?]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:399) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.readBytes(StreamDecoder.java:350) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.implRead(StreamDecoder.java:393) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.lockedRead(StreamDecoder.java:217) ~[?:?]
+	at java.base/sun.nio.cs.StreamDecoder.read(StreamDecoder.java:171) ~[?:?]
+	at java.base/java.io.InputStreamReader.read(InputStreamReader.java:186) ~[?:?]
+	at java.base/java.io.BufferedReader.fill(BufferedReader.java:160) ~[?:?]
+	at java.base/java.io.BufferedReader.implReadLine(BufferedReader.java:370) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:347) ~[?:?]
+	at java.base/java.io.BufferedReader.readLine(BufferedReader.java:436) ~[?:?]
+	at apn$1.run(SourceFile:103) [server-1.21.jar:?]
+[12:24:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:24:33] [Server thread/INFO]: Using default channel type
+[12:24:33] [Server thread/INFO]: Preparing level "world"
+[12:24:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:24:34] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:24:34] [Server thread/INFO]: Time elapsed: 250 ms
+[12:24:34] [Server thread/INFO]: Done (0.788s)! For help, type "help"
+[12:24:39] [Server thread/INFO]: Stopping the server
+[12:24:39] [Server thread/INFO]: Stopping server
+[12:24:39] [Server thread/INFO]: Saving players
+[12:24:39] [Server thread/INFO]: Saving worlds
+[12:24:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:24:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:24:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:24:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:24:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:24:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:24:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

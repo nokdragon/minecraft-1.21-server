@@ -4,10 +4,12 @@ git pull
 
 FILE=allready_start
 if [ -f "$FILE" ]; then
-    echo "Server allready_start"
+    echo "Server allready_start by"
+    cat allready_start
+    sleep 10
 else 
     echo "$FILE does not exist."
-    echo "true" > allready_start
+    git config --global user.name > allready_start
     git add allready_start
     git commit -m "auto_add"
     git push
