@@ -1,24 +1,31 @@
 {
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2024-06-28 12:41:13 +0200"
+      "unlock_right_away": "2024-06-28 13:59:59 +0200"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:beach": "2024-06-28 13:22:53 +0200",
-      "minecraft:desert": "2024-06-28 12:41:14 +0200",
-      "minecraft:forest": "2024-06-28 13:44:55 +0200",
-      "minecraft:mangrove_swamp": "2024-06-28 13:43:45 +0200",
-      "minecraft:sparse_jungle": "2024-06-28 13:43:21 +0200",
-      "minecraft:river": "2024-06-28 13:24:55 +0200",
-      "minecraft:lukewarm_ocean": "2024-06-28 13:22:50 +0200",
-      "minecraft:savanna": "2024-06-28 13:22:55 +0200",
-      "minecraft:bamboo_jungle": "2024-06-28 13:43:13 +0200",
-      "minecraft:windswept_savanna": "2024-06-28 13:43:24 +0200",
-      "minecraft:plains": "2024-06-28 13:19:58 +0200",
-      "minecraft:warm_ocean": "2024-06-28 13:42:59 +0200"
+      "minecraft:cold_ocean": "2024-06-28 14:12:39 +0200",
+      "minecraft:flower_forest": "2024-06-28 14:07:18 +0200",
+      "minecraft:beach": "2024-06-28 14:04:27 +0200",
+      "minecraft:dark_forest": "2024-06-28 14:02:39 +0200",
+      "minecraft:forest": "2024-06-28 14:02:53 +0200",
+      "minecraft:taiga": "2024-06-28 14:24:08 +0200",
+      "minecraft:mangrove_swamp": "2024-06-28 14:25:53 +0200",
+      "minecraft:deep_ocean": "2024-06-28 14:26:16 +0200",
+      "minecraft:river": "2024-06-28 14:05:29 +0200",
+      "minecraft:dripstone_caves": "2024-06-28 14:19:49 +0200",
+      "minecraft:ocean": "2024-06-28 14:02:40 +0200",
+      "minecraft:swamp": "2024-06-28 14:00:00 +0200",
+      "minecraft:grove": "2024-06-28 14:24:06 +0200",
+      "minecraft:meadow": "2024-06-28 14:07:52 +0200",
+      "minecraft:birch_forest": "2024-06-28 14:24:15 +0200",
+      "minecraft:windswept_gravelly_hills": "2024-06-28 14:05:31 +0200",
+      "minecraft:windswept_hills": "2024-06-28 14:18:56 +0200",
+      "minecraft:savanna": "2024-06-28 14:25:52 +0200",
+      "minecraft:plains": "2024-06-28 14:03:57 +0200"
     },
     "done": false
   },
