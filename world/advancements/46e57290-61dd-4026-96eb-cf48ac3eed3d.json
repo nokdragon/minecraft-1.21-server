@@ -1882,15 +1882,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_stained_glass": {
+  "minecraft:recipes/building_blocks/glass": {
     "criteria": {
-      "has_glass": "2024-06-30 11:02:01 +0200"
+      "has_smelts_to_glass": "2024-06-30 10:59:53 +0200"
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "lava_bucket": "2024-06-30 11:26:47 +0200"
+      "has_sand": "2024-06-30 10:59:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-06-30 11:02:01 +0200"
     },
     "done": true
   },
@@ -1927,12 +1933,6 @@
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-06-30 11:02:01 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/glass": {
-    "criteria": {
-      "has_smelts_to_glass": "2024-06-30 10:59:53 +0200"
     },
     "done": true
   },
@@ -1978,12 +1978,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
-    "criteria": {
-      "has_sand": "2024-06-30 10:59:53 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-06-30 11:02:01 +0200"
@@ -2005,6 +1999,18 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-06-30 11:02:01 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-06-30 11:26:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-06-30 19:06:55 +0200"
     },
     "done": true
   },
