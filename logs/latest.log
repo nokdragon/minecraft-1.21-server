@@ -1,31 +1,32 @@
-[00:35:55] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[00:35:56] [ServerMain/INFO]: Loaded 1290 recipes
-[00:35:56] [ServerMain/INFO]: Loaded 1399 advancements
-[00:35:56] [Server thread/INFO]: Starting minecraft server version 1.21
-[00:35:56] [Server thread/INFO]: Loading properties
-[00:35:56] [Server thread/INFO]: Default game type: SURVIVAL
-[00:35:56] [Server thread/INFO]: Generating keypair
-[00:35:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[00:35:56] [Server thread/INFO]: Using default channel type
-[00:35:57] [Server thread/INFO]: Preparing level "world"
-[00:35:57] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[00:35:58] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[00:35:58] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[00:35:58] [Server thread/INFO]: Time elapsed: 971 ms
-[00:35:58] [Server thread/INFO]: Done (1.470s)! For help, type "help"
-[00:36:36] [User Authenticator #1/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
-[00:36:37] [Server thread/INFO]: nokdra[/127.0.0.1:50711] logged in with entity id 181 at (101.16023198279083, 64.5625, -1133.2350797104323)
-[00:36:37] [Server thread/INFO]: nokdra joined the game
-[01:37:52] [Server thread/INFO]: nokdra lost connection: Disconnected
-[01:37:52] [Server thread/INFO]: nokdra left the game
-[01:38:00] [Server thread/INFO]: Stopping the server
-[01:38:00] [Server thread/INFO]: Stopping server
-[01:38:00] [Server thread/INFO]: Saving players
-[01:38:00] [Server thread/INFO]: Saving worlds
-[01:38:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01:38:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[01:38:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[01:38:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01:38:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01:38:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01:38:00] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:44:44] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:44:45] [ServerMain/INFO]: Loaded 1290 recipes
+[10:44:46] [ServerMain/INFO]: Loaded 1399 advancements
+[10:44:46] [Server thread/INFO]: Starting minecraft server version 1.21
+[10:44:46] [Server thread/INFO]: Loading properties
+[10:44:46] [Server thread/INFO]: Default game type: SURVIVAL
+[10:44:46] [Server thread/INFO]: Generating keypair
+[10:44:46] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:44:46] [Server thread/INFO]: Using default channel type
+[10:44:46] [Server thread/INFO]: Preparing level "world"
+[10:44:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:44:47] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:44:47] [Worker-Main-11/INFO]: Preparing spawn area: 7%
+[10:44:48] [Server thread/INFO]: Time elapsed: 940 ms
+[10:44:48] [Server thread/INFO]: Done (1.476s)! For help, type "help"
+[10:45:39] [User Authenticator #1/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[10:45:40] [Server thread/INFO]: nokdra[/127.0.0.1:63561] logged in with entity id 205 at (102.13339641222477, 65.0, -1130.401740655665)
+[10:45:40] [Server thread/INFO]: nokdra joined the game
+[11:26:47] [Server thread/INFO]: nokdra has made the advancement [Hot Stuff]
+[11:39:18] [Server thread/INFO]: nokdra lost connection: Disconnected
+[11:39:18] [Server thread/INFO]: nokdra left the game
+[11:39:28] [Server thread/INFO]: Stopping the server
+[11:39:28] [Server thread/INFO]: Stopping server
+[11:39:28] [Server thread/INFO]: Saving players
+[11:39:28] [Server thread/INFO]: Saving worlds
+[11:39:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11:39:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11:39:28] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11:39:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11:39:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11:39:28] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11:39:28] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
