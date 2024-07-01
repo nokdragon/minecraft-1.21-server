@@ -1,28 +1,67 @@
-[00:01:19] [Server thread/INFO]: nokdra lost connection: Disconnected
-[00:01:19] [Server thread/INFO]: nokdra left the game
-[00:01:50] [User Authenticator #2/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
-[00:01:51] [Server thread/INFO]: nokdra[/127.0.0.1:58393] logged in with entity id 426 at (100.63595139229743, 65.0, -1130.699095364202)
-[00:01:51] [Server thread/INFO]: nokdra joined the game
-[00:03:05] [Server thread/INFO]: nokdra lost connection: Disconnected
-[00:03:05] [Server thread/INFO]: nokdra left the game
-[00:04:01] [User Authenticator #3/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
-[00:04:01] [Server thread/INFO]: nokdra[/127.0.0.1:58546] logged in with entity id 573 at (100.64100601536782, 65.0, -1130.9924155005049)
-[00:04:01] [Server thread/INFO]: nokdra joined the game
-[00:05:43] [Server thread/INFO]: nokdra lost connection: Disconnected
-[00:05:43] [Server thread/INFO]: nokdra left the game
-[00:06:18] [User Authenticator #4/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
-[00:06:18] [Server thread/INFO]: nokdra[/127.0.0.1:58842] logged in with entity id 747 at (101.18688637484782, 65.0, -1130.655848108335)
-[00:06:18] [Server thread/INFO]: nokdra joined the game
-[00:10:58] [Server thread/INFO]: nokdra lost connection: Disconnected
-[00:10:58] [Server thread/INFO]: nokdra left the game
-[00:11:08] [Server thread/INFO]: Stopping the server
-[00:11:08] [Server thread/INFO]: Stopping server
-[00:11:08] [Server thread/INFO]: Saving players
-[00:11:08] [Server thread/INFO]: Saving worlds
-[00:11:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:11:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:11:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:11:08] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19:20:59] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:21:00] [ServerMain/INFO]: Loaded 1290 recipes
+[19:21:00] [ServerMain/INFO]: Loaded 1399 advancements
+[19:21:00] [Server thread/INFO]: Starting minecraft server version 1.21
+[19:21:00] [Server thread/INFO]: Loading properties
+[19:21:00] [Server thread/INFO]: Default game type: SURVIVAL
+[19:21:00] [Server thread/INFO]: Generating keypair
+[19:21:00] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:21:00] [Server thread/INFO]: Using default channel type
+[19:21:00] [Server thread/INFO]: Preparing level "world"
+[19:21:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:21:01] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:21:01] [Worker-Main-5/INFO]: Preparing spawn area: 7%
+[19:21:02] [Server thread/INFO]: Time elapsed: 999 ms
+[19:21:02] [Server thread/INFO]: Done (1.496s)! For help, type "help"
+[19:22:12] [User Authenticator #1/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[19:22:13] [Server thread/INFO]: nokdra[/127.0.0.1:65134] logged in with entity id 232 at (101.69757852108658, 65.0, -1134.281690816815)
+[19:22:13] [Server thread/INFO]: nokdra joined the game
+[19:25:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2318ms or 46 ticks behind
+[19:29:22] [Server thread/INFO]: nokdra has made the advancement [Take Aim]
+[19:31:28] [Server thread/INFO]: nokdra was doomed to fall
+[19:36:41] [Server thread/INFO]: nokdra has made the advancement [A Terrible Fortress]
+[19:37:24] [Server thread/INFO]: nokdra lost connection: Disconnected
+[19:37:24] [Server thread/INFO]: nokdra left the game
+[19:39:46] [User Authenticator #2/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[19:39:46] [Server thread/INFO]: nokdra[/127.0.0.1:65496] logged in with entity id 2311 at (-142.30000001192093, 69.0, -290.69999998807907)
+[19:39:46] [Server thread/INFO]: nokdra joined the game
+[19:42:34] [Server thread/INFO]: nokdra has made the advancement [Into Fire]
+[19:54:48] [Server thread/INFO]: nokdra has made the advancement [Spooky Scary Skeleton]
+[19:55:26] [Server thread/INFO]: nokdra withered away
+[19:57:42] [Server thread/INFO]: nokdra was slain by Wither Skeleton
+[19:58:04] [Server thread/INFO]: [nokdra: Set own game mode to Spectator Mode]
+[19:58:28] [Server thread/INFO]: [nokdra: Set own game mode to Survival Mode]
+[19:59:27] [Server thread/INFO]: nokdra lost connection: Disconnected
+[19:59:27] [Server thread/INFO]: nokdra left the game
+[20:00:06] [User Authenticator #3/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[20:00:07] [Server thread/INFO]: nokdra[/127.0.0.1:49156] logged in with entity id 5158 at (-119.87682018392381, 67.0, -420.6355667917822)
+[20:00:07] [Server thread/INFO]: nokdra joined the game
+[20:15:33] [Server thread/INFO]: nokdra was slain by Wither Skeleton
+[20:16:38] [Server thread/INFO]: Villager cmk['Villager'/45, l='ServerLevel[world]', x=110.99, y=63.00, z=-1131.70] died, message: 'Villager suffocated in a wall'
+[20:17:41] [Server thread/INFO]: [nokdra: Set own game mode to Spectator Mode]
+[20:18:09] [Server thread/INFO]: [nokdra: Set own game mode to Survival Mode]
+[20:18:25] [Server thread/INFO]: [nokdra: Set own game mode to Spectator Mode]
+[20:18:39] [Server thread/INFO]: [nokdra: Set own game mode to Creative Mode]
+[20:19:13] [Server thread/INFO]: [nokdra: Set own game mode to Survival Mode]
+[20:33:59] [Server thread/INFO]: nokdra lost connection: Disconnected
+[20:33:59] [Server thread/INFO]: nokdra left the game
+[20:37:02] [User Authenticator #4/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[20:37:02] [Server thread/INFO]: nokdra[/127.0.0.1:49405] logged in with entity id 9769 at (100.5, 64.0, -1131.5)
+[20:37:02] [Server thread/INFO]: nokdra joined the game
+[20:44:30] [Server thread/INFO]: nokdra has made the advancement [Who is Cutting Onions?]
+[21:08:35] [Server thread/INFO]: [nokdra: Set own game mode to Spectator Mode]
+[21:08:51] [Server thread/INFO]: Villager cmk['Villager'/11396, l='ServerLevel[world]', x=110.99, y=62.86, z=-1131.70] died, message: 'Villager suffocated in a wall'
+[21:09:50] [Server thread/INFO]: [nokdra: Set own game mode to Survival Mode]
+[21:12:22] [Server thread/INFO]: nokdra lost connection: Disconnected
+[21:12:22] [Server thread/INFO]: nokdra left the game
+[21:12:40] [Server thread/INFO]: Stopping the server
+[21:12:40] [Server thread/INFO]: Stopping server
+[21:12:40] [Server thread/INFO]: Saving players
+[21:12:40] [Server thread/INFO]: Saving worlds
+[21:12:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21:12:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21:12:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21:12:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21:12:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21:12:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21:12:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
