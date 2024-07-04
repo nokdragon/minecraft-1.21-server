@@ -1,78 +1,43 @@
-[10:00:47] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[10:00:48] [ServerMain/INFO]: Loaded 1290 recipes
-[10:00:48] [ServerMain/INFO]: Loaded 1399 advancements
-[10:00:49] [Server thread/INFO]: Starting minecraft server version 1.21
-[10:00:49] [Server thread/INFO]: Loading properties
-[10:00:49] [Server thread/INFO]: Default game type: SURVIVAL
-[10:00:49] [Server thread/INFO]: Generating keypair
-[10:00:49] [Server thread/INFO]: Starting Minecraft server on *:25565
-[10:00:49] [Server thread/INFO]: Using default channel type
-[10:00:50] [Server thread/INFO]: Preparing level "world"
-[10:00:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[10:00:50] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[10:00:51] [Worker-Main-6/INFO]: Preparing spawn area: 9%
-[10:00:51] [Server thread/INFO]: Time elapsed: 1075 ms
-[10:00:51] [Server thread/INFO]: Done (1.606s)! For help, type "help"
-[10:04:13] [User Authenticator #1/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
-[10:04:14] [Server thread/INFO]: nokdra[/127.0.0.1:57498] logged in with entity id 226 at (97.68622581854277, 64.0, -1132.7744372958678)
-[10:04:14] [Server thread/INFO]: nokdra joined the game
-[10:15:43] [Server thread/INFO]: nokdra has made the advancement [What a Deal!]
-[10:34:06] [Server thread/INFO]: Villager cmk['Librarian'/50, l='ServerLevel[world]', x=106.31, y=65.00, z=-1134.49] died, message: 'Librarian was shot by Pillager'
-[10:34:21] [Server thread/INFO]: nokdra has made the advancement [Voluntary Exile]
-[10:47:41] [Server thread/INFO]: Villager cmk['Villager'/3410, l='ServerLevel[world]', x=110.37, y=62.00, z=-1132.39] died, message: 'Villager suffocated in a wall'
-[11:08:24] [User Authenticator #2/INFO]: Disconnecting Herobrine (/151.115.73.107:53140): Failed to verify username!
-[11:08:24] [User Authenticator #2/ERROR]: Username 'Herobrine' tried to join with an invalid session
-[11:08:24] [Server thread/INFO]: Herobrine (/151.115.73.107:53140) lost connection: Failed to verify username!
-[11:08:35] [User Authenticator #3/INFO]: UUID of player matscan is ff47729b-d0d2-4af0-98b1-1c0a7e1b0eef
-[11:08:35] [Server thread/INFO]: matscan[/151.115.73.107:33768] logged in with entity id 10041 at (99.5, 65.0, -1148.5)
-[11:08:35] [Server thread/INFO]: matscan joined the game
-[11:08:35] [Server thread/INFO]: <matscan> Hello. I'm a friendly bot that scans the internet for Minecraft servers.
-[11:08:35] [Server thread/INFO]: <matscan> This server isn't whitelisted, which means griefers can and probably will join it. To avoid this you must whitelist the server with the commands '/whitelist on' and '/whitelist add <player>'.
-[11:08:36] [Server thread/INFO]: <matscan> If it was meant to be public, please ensure that the server is taking frequent backups to prevent permanent damage in the event that it is targeted.
-[11:08:36] [Server thread/INFO]: <matscan> - mat | FAQ: https://matdoes.dev/matscan
-[11:08:38] [Server thread/INFO]: matscan lost connection: Disconnected
-[11:08:38] [Server thread/INFO]: matscan left the game
-[11:11:18] [Server thread/INFO]: Villager cmk['Villager'/5756, l='ServerLevel[world]', x=109.81, y=65.36, z=-1134.17] died, message: 'Villager was slain by Zombie'
-[11:11:36] [Server thread/INFO]: Villager cmk['Villager'/4, l='ServerLevel[world]', x=109.20, y=65.00, z=-1135.59] died, message: 'Villager was slain by Zombie'
-[11:13:55] [Server thread/INFO]: Villager cmk['Villager'/7618, l='ServerLevel[world]', x=110.50, y=62.00, z=-1132.30] died, message: 'Villager suffocated in a wall'
-[11:24:47] [Server thread/INFO]: Villager cmk['Villager'/9338, l='ServerLevel[world]', x=110.67, y=62.00, z=-1132.47] died, message: 'Villager suffocated in a wall'
-[11:41:12] [Server thread/INFO]: Villager cmk['Villager'/11750, l='ServerLevel[world]', x=111.30, y=63.00, z=-1131.50] died, message: 'Villager suffocated in a wall'
-[11:47:02] [Server thread/INFO]: nokdra has made the advancement [Minecraft: Trial(s) Edition]
-[11:47:24] [Server thread/INFO]: nokdra has made the advancement [Wax Off]
-[11:47:24] [Server thread/INFO]: nokdra has made the advancement [Lighten Up]
-[11:50:42] [Server thread/INFO]: Villager cmk['Villager'/12996, l='ServerLevel[world]', x=110.37, y=62.00, z=-1132.39] died, message: 'Villager suffocated in a wall'
-[11:55:40] [Server thread/INFO]: nokdra has made the advancement [Under Lock and Key]
-[11:56:55] [Server thread/INFO]: nokdra was slain by Zombie
-[11:56:57] [Server thread/WARN]: nokdra moved too quickly! 9.800000011920929,90.0,-138.3269609234062
-[11:56:57] [Server thread/WARN]: nokdra moved too quickly! 9.800000011920929,90.0,-138.3269609234062
-[11:56:57] [Server thread/WARN]: nokdra moved too quickly! 9.800000011920929,90.0,-138.3269609234062
-[12:00:38] [Server thread/INFO]: nokdra was slain by Zombie
-[12:00:40] [Server thread/WARN]: nokdra moved too quickly! 23.19999998807907,90.0,-127.19999998807907
-[12:00:40] [Server thread/WARN]: nokdra moved too quickly! 23.19999998807907,90.0,-127.19999998807907
-[12:00:40] [Server thread/WARN]: nokdra moved too quickly! 23.19999998807907,90.0,-127.19999998807907
-[12:02:39] [Server thread/INFO]: nokdra was slain by Zombie
-[12:02:40] [Server thread/WARN]: nokdra moved too quickly! 19.925224255729802,90.0,-126.92923284655899
-[12:02:40] [Server thread/WARN]: nokdra moved too quickly! 19.925224255729802,90.0,-126.92923284655899
-[12:02:40] [Server thread/WARN]: nokdra moved too quickly! 19.925224255729802,90.0,-126.92923284655899
-[12:03:21] [Server thread/INFO]: nokdra fell from a high place
-[12:03:23] [Server thread/WARN]: nokdra moved too quickly! 33.57684887275536,105.5625,24.794345919965963
-[12:03:23] [Server thread/WARN]: nokdra moved too quickly! 33.57684887275536,105.5625,24.794345919965963
-[12:03:23] [Server thread/WARN]: nokdra moved too quickly! 33.57684887275536,105.5625,24.794345919965963
-[12:05:17] [Server thread/INFO]: nokdra was slain by Zombie
-[12:05:18] [Server thread/WARN]: nokdra moved too quickly! -18.67459233427398,-7.0,-40.35728897151989
-[12:05:18] [Server thread/WARN]: nokdra moved too quickly! -18.67459233427398,-7.0,-40.35728897151989
-[12:05:18] [Server thread/WARN]: nokdra moved too quickly! -18.67459233427398,-7.0,-40.35728897151989
-[12:18:08] [Server thread/INFO]: Villager cmk['Villager'/17266, l='ServerLevel[world]', x=110.99, y=63.00, z=-1131.70] died, message: 'Villager suffocated in a wall'
-[12:20:40] [Server thread/INFO]: nokdra lost connection: Disconnected
-[12:20:40] [Server thread/INFO]: nokdra left the game
-[12:20:51] [Server thread/INFO]: Stopping the server
-[12:20:51] [Server thread/INFO]: Stopping server
-[12:20:51] [Server thread/INFO]: Saving players
-[12:20:51] [Server thread/INFO]: Saving worlds
-[12:20:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:20:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12:20:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:20:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13:47:28] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[13:47:29] [ServerMain/INFO]: Loaded 1290 recipes
+[13:47:29] [ServerMain/INFO]: Loaded 1399 advancements
+[13:47:30] [Server thread/INFO]: Starting minecraft server version 1.21
+[13:47:30] [Server thread/INFO]: Loading properties
+[13:47:30] [Server thread/INFO]: Default game type: SURVIVAL
+[13:47:30] [Server thread/INFO]: Generating keypair
+[13:47:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:47:30] [Server thread/INFO]: Using default channel type
+[13:47:30] [Server thread/INFO]: Preparing level "world"
+[13:47:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[13:47:31] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[13:47:31] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[13:47:31] [Server thread/INFO]: Time elapsed: 924 ms
+[13:47:31] [Server thread/INFO]: Done (1.386s)! For help, type "help"
+[13:49:06] [User Authenticator #1/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[13:49:07] [Server thread/INFO]: nokdra[/127.0.0.1:56196] logged in with entity id 255 at (99.60270656777224, 64.0, -1133.1899189943429)
+[13:49:07] [Server thread/INFO]: nokdra joined the game
+[14:08:50] [Server thread/INFO]: Villager cmk['Villager'/18, l='ServerLevel[world]', x=110.50, y=62.00, z=-1132.30] died, message: 'Villager suffocated in a wall'
+[14:31:54] [Server thread/INFO]: Villager cmk['Farmer'/19, l='ServerLevel[world]', x=110.24, y=66.00, z=-1124.70] died, message: 'Farmer was slain by Zombie'
+[14:32:01] [Server thread/INFO]: Villager cmk['Villager'/12, l='ServerLevel[world]', x=111.32, y=65.94, z=-1124.26] died, message: 'Villager was slain by Zombie Villager'
+[14:33:22] [Server thread/INFO]: nokdra lost connection: Disconnected
+[14:33:22] [Server thread/INFO]: nokdra left the game
+[14:33:56] [User Authenticator #2/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[14:33:56] [Server thread/INFO]: nokdra[/127.0.0.1:56373] logged in with entity id 7565 at (100.11666798852279, 65.0, -1129.476420132918)
+[14:33:56] [Server thread/INFO]: nokdra joined the game
+[15:09:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=96, y=71, z=-1176} jd{x=81, y=65, z=-1165}
+[15:09:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=96, y=71, z=-1176} jd{x=81, y=65, z=-1165}
+[15:09:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=96, y=71, z=-1176} jd{x=81, y=65, z=-1165}
+[15:29:48] [Server thread/INFO]: Villager cmk['Villager'/12882, l='ServerLevel[world]', x=111.30, y=63.00, z=-1131.50] died, message: 'Villager suffocated in a wall'
+[15:36:20] [Server thread/INFO]: nokdra lost connection: Disconnected
+[15:36:20] [Server thread/INFO]: nokdra left the game
+[15:36:45] [Server thread/INFO]: Stopping the server
+[15:36:45] [Server thread/INFO]: Stopping server
+[15:36:45] [Server thread/INFO]: Saving players
+[15:36:45] [Server thread/INFO]: Saving worlds
+[15:36:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:36:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:36:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:36:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:36:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:36:45] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:36:45] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
