@@ -1,11 +1,14 @@
 # minecraft-1.21-server
 -Installer git : 
+
 https://git-scm.com/downloads
 
 -Installer java :
+
 https://download.oracle.com/java/22/archive/jdk-22_windows-x64_bin.exe
 
--Lancer git bash à l'endroit ou vous voulez cloner le répo du serveur puis clonez le repo
+-Lancer git bash à l'endroit ou vous voulez cloner le répo du serveur puis clonez le repo :
+
 git clone https://github.com/nokdragon/minecraft-1.21-server.git
 
 -installation terminé
