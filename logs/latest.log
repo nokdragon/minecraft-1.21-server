@@ -1,113 +1,21 @@
-[20:44:53] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[20:44:54] [ServerMain/INFO]: Loaded 1290 recipes
-[20:44:54] [ServerMain/INFO]: Loaded 1399 advancements
-[20:44:55] [Server thread/INFO]: Starting minecraft server version 1.21
-[20:44:55] [Server thread/INFO]: Loading properties
-[20:44:55] [Server thread/INFO]: Default game type: SURVIVAL
-[20:44:55] [Server thread/INFO]: Generating keypair
-[20:44:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:44:55] [Server thread/INFO]: Using default channel type
-[20:44:55] [Server thread/INFO]: Preparing level "world"
-[20:44:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:44:56] [Worker-Main-4/INFO]: Preparing spawn area: 0%
-[20:44:56] [Worker-Main-7/INFO]: Preparing spawn area: 13%
-[20:44:57] [Server thread/INFO]: Time elapsed: 974 ms
-[20:44:57] [Server thread/INFO]: Done (1.513s)! For help, type "help"
-[20:45:47] [User Authenticator #1/INFO]: UUID of player kamaki_ is 1d33ac2f-4cc4-4b86-88f7-d581e9b6b01c
-[20:45:48] [Server thread/INFO]: kamaki_[/78.197.63.65:52380] logged in with entity id 243 at (97.5, 64.0, -1141.5)
-[20:45:48] [Server thread/INFO]: kamaki_ joined the game
-[20:47:02] [User Authenticator #2/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
-[20:47:02] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=108, y=70, z=-1103} jd{x=96, y=64, z=-1161}
-[20:47:02] [Server thread/INFO]: nokdra[/127.0.0.1:61647] logged in with entity id 467 at (109.20251517384051, 67.0, -1141.8339958471372)
-[20:47:02] [Server thread/INFO]: nokdra joined the game
-[20:47:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=108, y=70, z=-1103} jd{x=96, y=64, z=-1161}
-[20:47:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=108, y=70, z=-1103} jd{x=96, y=64, z=-1161}
-[20:48:40] [Server thread/INFO]: kamaki_ has made the advancement [Acquire Hardware]
-[20:48:51] [Server thread/INFO]: kamaki_ has made the advancement [Isn't It Iron Pick]
-[20:50:05] [Server thread/INFO]: kamaki_ lost connection: Disconnected
-[20:50:05] [Server thread/INFO]: kamaki_ left the game
-[20:50:08] [User Authenticator #3/INFO]: UUID of player kamaki_ is 1d33ac2f-4cc4-4b86-88f7-d581e9b6b01c
-[20:50:09] [Server thread/INFO]: kamaki_[/78.197.63.65:52525] logged in with entity id 844 at (82.57608996400458, 64.0, -1148.4610218834616)
-[20:50:09] [Server thread/INFO]: kamaki_ joined the game
-[20:58:14] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=119, y=39, z=-1146} jd{x=106, y=33, z=-1165}
-[20:58:16] [Server thread/INFO]: kamaki_ has made the advancement [Monster Hunter]
-[20:58:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=120, y=37, z=-1186} jd{x=118, y=37, z=-1167}
-[20:58:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=120, y=37, z=-1186} jd{x=118, y=36, z=-1168}
-[20:59:22] [Server thread/INFO]: kamaki_ has made the advancement [Stone Age]
-[21:01:35] [Server thread/INFO]: Villager cmk['Villager'/13, l='ServerLevel[world]', x=111.30, y=63.00, z=-1131.50] died, message: 'Villager suffocated in a wall'
-[21:06:51] [Server thread/INFO]: kamaki_ lost connection: Disconnected
-[21:06:51] [Server thread/INFO]: kamaki_ left the game
-[21:08:33] [User Authenticator #4/INFO]: UUID of player kamaki_ is 1d33ac2f-4cc4-4b86-88f7-d581e9b6b01c
-[21:08:33] [Server thread/INFO]: kamaki_[/78.197.63.65:53085] logged in with entity id 4061 at (147.56526950014285, 37.0, -1178.5151013305106)
-[21:08:33] [Server thread/INFO]: kamaki_ joined the game
-[21:09:40] [User Authenticator #5/INFO]: UUID of player SigmaRh0 is 4a7b1ad7-f86b-44ba-9124-0c40545b1b5b
-[21:09:41] [Server thread/INFO]: SigmaRh0[/93.42.65.51:42248] logged in with entity id 4271 at (99.5, 65.0, -1158.5)
-[21:09:41] [Server thread/INFO]: SigmaRh0 joined the game
-[21:10:24] [Server thread/INFO]: SigmaRh0 lost connection: Disconnected
-[21:10:24] [Server thread/INFO]: SigmaRh0 left the game
-[21:12:45] [Server thread/INFO]: Villager cmk['Librarian'/5, l='ServerLevel[world]', x=114.70, y=67.00, z=-1145.70] died, message: 'Librarian was slain by kamaki_'
-[21:13:29] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=119, y=66, z=-1143} jd{x=99, y=65, z=-1140}
-[21:13:31] [Server thread/INFO]: Villager cmk['Villager'/2, l='ServerLevel[world]', x=101.30, y=66.00, z=-1138.62] died, message: 'Villager was slain by kamaki_'
-[21:19:35] [Server thread/INFO]: kamaki_ lost connection: Disconnected
-[21:19:35] [Server thread/INFO]: kamaki_ left the game
-[21:19:52] [User Authenticator #6/INFO]: UUID of player kamaki_ is 1d33ac2f-4cc4-4b86-88f7-d581e9b6b01c
-[21:19:52] [Server thread/INFO]: kamaki_[/78.197.63.65:53474] logged in with entity id 5691 at (111.37619972893663, 67.0, -1148.2723941230147)
-[21:19:52] [Server thread/INFO]: kamaki_ joined the game
-[21:19:58] [User Authenticator #7/INFO]: UUID of player SigmaRh0 is 4a7b1ad7-f86b-44ba-9124-0c40545b1b5b
-[21:19:59] [Server thread/INFO]: SigmaRh0[/93.42.65.51:42513] logged in with entity id 5703 at (100.25150843758702, 65.0, -1156.7172932214323)
-[21:19:59] [Server thread/INFO]: SigmaRh0 joined the game
-[21:20:21] [Server thread/INFO]: SigmaRh0 lost connection: Disconnected
-[21:20:21] [Server thread/INFO]: SigmaRh0 left the game
-[21:22:05] [User Authenticator #8/INFO]: UUID of player SigmaRh0 is 4a7b1ad7-f86b-44ba-9124-0c40545b1b5b
-[21:22:06] [Server thread/INFO]: SigmaRh0[/93.42.65.51:42659] logged in with entity id 6017 at (101.86130748607926, 66.0, -1154.8114706518415)
-[21:22:06] [Server thread/INFO]: SigmaRh0 joined the game
-[21:22:45] [Server thread/INFO]: Villager cmk['Librarian'/6, l='ServerLevel[world]', x=114.38, y=67.00, z=-1145.37] died, message: 'Librarian was slain by kamaki_'
-[21:22:58] [Server thread/INFO]: SigmaRh0 was slain by kamaki_
-[21:23:04] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=106, y=67, z=-1136}
-[21:23:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=99, y=66, z=-1108} jd{x=108, y=67, z=-1138}
-[21:23:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=0, y=0, z=0} jd{x=109, y=64, z=-1138}
-[21:23:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=99, y=66, z=-1108} jd{x=106, y=67, z=-1136}
-[21:23:08] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=99, y=66, z=-1108} jd{x=106, y=67, z=-1136}
-[21:23:12] [Server thread/INFO]: SigmaRh0 was slain by kamaki_
-[21:23:28] [Server thread/INFO]: SigmaRh0 was slain by kamaki_
-[21:23:29] [Server thread/INFO]: [nokdra: Kicked kamaki_: Kicked by an operator]
-[21:23:29] [Server thread/INFO]: kamaki_ lost connection: Kicked by an operator
-[21:23:29] [Server thread/INFO]: kamaki_ left the game
-[21:23:34] [User Authenticator #9/INFO]: UUID of player kamaki_ is 1d33ac2f-4cc4-4b86-88f7-d581e9b6b01c
-[21:23:34] [Server thread/INFO]: kamaki_[/78.197.63.65:53626] logged in with entity id 6273 at (97.81232036802054, 65.0, -1119.2092853164195)
-[21:23:34] [Server thread/INFO]: kamaki_ joined the game
-[21:25:41] [Server thread/INFO]: SigmaRh0 has made the advancement [Isn't It Iron Pick]
-[21:26:49] [Server thread/INFO]: SigmaRh0 lost connection: Disconnected
-[21:26:49] [Server thread/INFO]: SigmaRh0 left the game
-[21:53:53] [User Authenticator #10/INFO]: UUID of player SigmaRh0 is 4a7b1ad7-f86b-44ba-9124-0c40545b1b5b
-[21:53:53] [Server thread/INFO]: SigmaRh0[/93.42.65.51:42971] logged in with entity id 10528 at (109.86979291017904, 69.0, -1134.4044461577814)
-[21:53:53] [Server thread/INFO]: SigmaRh0 joined the game
-[21:54:20] [Server thread/INFO]: SigmaRh0 has made the advancement [Sweet Dreams]
-[21:54:22] [Server thread/INFO]: kamaki_ lost connection: Disconnected
-[21:54:22] [Server thread/INFO]: kamaki_ left the game
-[22:03:22] [User Authenticator #11/INFO]: UUID of player kamaki_ is 1d33ac2f-4cc4-4b86-88f7-d581e9b6b01c
-[22:03:22] [Server thread/INFO]: kamaki_[/78.197.63.65:54920] logged in with entity id 11887 at (17.493702084139038, 30.0, -1202.699999988079)
-[22:03:22] [Server thread/INFO]: kamaki_ joined the game
-[22:04:13] [Server thread/INFO]: kamaki_ was slain by Zombie
-[22:04:15] [Server thread/WARN]: kamaki_ moved too quickly! 85.96928544465067,34.0,-11.199999988079071
-[22:04:15] [Server thread/WARN]: kamaki_ moved too quickly! 85.96928544465067,34.0,-11.199999988079071
-[22:09:19] [Server thread/INFO]: nokdra was slain by Enderman
-[22:09:20] [Server thread/WARN]: nokdra moved too quickly! -35.19999998807907,28.5625,44.63749998807907
-[22:09:20] [Server thread/WARN]: nokdra moved too quickly! -35.19999998807907,28.5625,44.63749998807907
-[22:10:58] [Server thread/INFO]: SigmaRh0 has made the advancement [Stone Age]
-[22:11:21] [Server thread/INFO]: SigmaRh0 has made the advancement [Getting an Upgrade]
-[22:11:52] [Server thread/INFO]: nokdra lost connection: Disconnected
-[22:11:52] [Server thread/INFO]: nokdra left the game
-[22:11:59] [Server thread/INFO]: Stopping the server
-[22:11:59] [Server thread/INFO]: Stopping server
-[22:11:59] [Server thread/INFO]: Saving players
-[22:11:59] [Server thread/INFO]: kamaki_ lost connection: Server closed
-[22:11:59] [Server thread/INFO]: kamaki_ left the game
-[22:11:59] [Server thread/INFO]: Saving worlds
-[22:11:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:11:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:11:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:11:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:00:29] [Server thread/INFO]: SigmaRh0 fell from a high place
+[00:01:04] [Server thread/INFO]: Villager cmk['Villager'/22499, l='ServerLevel[world]', x=111.30, y=63.00, z=-1131.50] died, message: 'Villager suffocated in a wall'
+[00:09:29] [Server thread/INFO]: nokdra lost connection: Disconnected
+[00:09:29] [Server thread/INFO]: nokdra left the game
+[00:17:28] [Server thread/INFO]: SigmaRh0 has made the advancement [Acquire Hardware]
+[00:32:55] [Server thread/INFO]: SigmaRh0 has made the advancement [Monster Hunter]
+[00:33:39] [Server thread/INFO]: SigmaRh0 lost connection: Disconnected
+[00:33:39] [Server thread/INFO]: SigmaRh0 left the game
+[00:34:38] [Server thread/INFO]: kamaki_ lost connection: Disconnected
+[00:34:38] [Server thread/INFO]: kamaki_ left the game
+[00:34:39] [Server thread/INFO]: Stopping the server
+[00:34:39] [Server thread/INFO]: Stopping server
+[00:34:39] [Server thread/INFO]: Saving players
+[00:34:39] [Server thread/INFO]: Saving worlds
+[00:34:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[00:34:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[00:34:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[00:34:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:34:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:34:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:34:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
