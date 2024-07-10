@@ -1,21 +1,82 @@
-[00:00:29] [Server thread/INFO]: SigmaRh0 fell from a high place
-[00:01:04] [Server thread/INFO]: Villager cmk['Villager'/22499, l='ServerLevel[world]', x=111.30, y=63.00, z=-1131.50] died, message: 'Villager suffocated in a wall'
-[00:09:29] [Server thread/INFO]: nokdra lost connection: Disconnected
-[00:09:29] [Server thread/INFO]: nokdra left the game
-[00:17:28] [Server thread/INFO]: SigmaRh0 has made the advancement [Acquire Hardware]
-[00:32:55] [Server thread/INFO]: SigmaRh0 has made the advancement [Monster Hunter]
-[00:33:39] [Server thread/INFO]: SigmaRh0 lost connection: Disconnected
-[00:33:39] [Server thread/INFO]: SigmaRh0 left the game
-[00:34:38] [Server thread/INFO]: kamaki_ lost connection: Disconnected
-[00:34:38] [Server thread/INFO]: kamaki_ left the game
-[00:34:39] [Server thread/INFO]: Stopping the server
-[00:34:39] [Server thread/INFO]: Stopping server
-[00:34:39] [Server thread/INFO]: Saving players
-[00:34:39] [Server thread/INFO]: Saving worlds
-[00:34:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:34:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[00:34:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[00:34:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:34:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:34:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:34:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:53:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:53:01] [ServerMain/INFO]: Loaded 1290 recipes
+[20:53:01] [ServerMain/INFO]: Loaded 1399 advancements
+[20:53:02] [Server thread/INFO]: Starting minecraft server version 1.21
+[20:53:02] [Server thread/INFO]: Loading properties
+[20:53:02] [Server thread/INFO]: Default game type: SURVIVAL
+[20:53:02] [Server thread/INFO]: Generating keypair
+[20:53:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:53:02] [Server thread/INFO]: Using default channel type
+[20:53:02] [Server thread/INFO]: Preparing level "world"
+[20:53:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:53:03] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[20:53:03] [Worker-Main-4/INFO]: Preparing spawn area: 16%
+[20:53:04] [Server thread/INFO]: Time elapsed: 954 ms
+[20:53:04] [Server thread/INFO]: Done (1.481s)! For help, type "help"
+[20:54:29] [User Authenticator #1/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[20:54:30] [Server thread/INFO]: nokdra[/127.0.0.1:61738] logged in with entity id 248 at (101.5, 64.5625, -1132.5)
+[20:54:30] [Server thread/INFO]: nokdra joined the game
+[20:55:18] [Server thread/INFO]: Villager cmk['Villager'/33, l='ServerLevel[world]', x=111.30, y=63.00, z=-1131.50] died, message: 'Villager suffocated in a wall'
+[21:07:00] [Server thread/INFO]: Villager cmk['Fletcher'/37, l='ServerLevel[world]', x=105.46, y=65.00, z=-1132.51] died, message: 'Fletcher was slain by Zombie'
+[21:14:53] [Server thread/INFO]: Villager cmk['Villager'/280, l='ServerLevel[world]', x=111.30, y=63.00, z=-1131.50] died, message: 'Villager suffocated in a wall'
+[21:45:11] [Server thread/INFO]: nokdra lost connection: Disconnected
+[21:45:11] [Server thread/INFO]: nokdra left the game
+[22:07:53] [User Authenticator #2/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[22:07:54] [Server thread/INFO]: nokdra[/127.0.0.1:62271] logged in with entity id 7888 at (100.11245871982636, 65.0, -1144.6653031384426)
+[22:07:54] [Server thread/INFO]: nokdra joined the game
+[22:17:09] [Netty Server IO #9/ERROR]: Error sending packet clientbound/minecraft:disconnect
+io.netty.handler.codec.EncoderException: Sending unknown packet 'clientbound/minecraft:disconnect'
+	at yw.a(SourceFile:47) ~[server-1.21.jar:?]
+	at yw.encode(SourceFile:14) ~[server-1.21.jar:?]
+	at we.a(SourceFile:26) ~[server-1.21.jar:?]
+	at we.encode(SourceFile:12) ~[server-1.21.jar:?]
+	at io.netty.handler.codec.MessageToByteEncoder.write(MessageToByteEncoder.java:107) ~[netty-codec-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite(AbstractChannelHandlerContext.java:863) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:968) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:856) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.ChannelOutboundHandlerAdapter.write(ChannelOutboundHandlerAdapter.java:113) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at vt$2.write(SourceFile:530) ~[server-1.21.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWrite0(AbstractChannelHandlerContext.java:881) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeWriteAndFlush(AbstractChannelHandlerContext.java:940) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.write(AbstractChannelHandlerContext.java:966) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:934) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.writeAndFlush(AbstractChannelHandlerContext.java:984) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.writeAndFlush(DefaultChannelPipeline.java:1025) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannel.writeAndFlush(AbstractChannel.java:306) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at vt.c(SourceFile:350) ~[server-1.21.jar:?]
+	at vt.b(SourceFile:343) ~[server-1.21.jar:?]
+	at vt.a(SourceFile:325) ~[server-1.21.jar:?]
+	at vt.a(SourceFile:319) ~[server-1.21.jar:?]
+	at vt.exceptionCaught(SourceFile:170) ~[server-1.21.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.fireExceptionCaught(AbstractChannelHandlerContext.java:317) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.exceptionCaught(DefaultChannelPipeline.java:1377) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:346) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeExceptionCaught(AbstractChannelHandlerContext.java:325) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.DefaultChannelPipeline.fireExceptionCaught(DefaultChannelPipeline.java:907) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.handleReadException(AbstractNioByteChannel.java:125) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.AbstractNioByteChannel$NioByteUnsafe.read(AbstractNioByteChannel.java:177) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:788) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562) ~[netty-transport-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.97.Final.jar:4.1.97.Final]
+	at java.base/java.lang.Thread.run(Thread.java:1570) [?:?]
+[22:27:42] [Server thread/INFO]: Villager cmk['Fletcher'/2, l='ServerLevel[world]', x=105.82, y=65.00, z=-1134.39] died, message: 'Fletcher was slain by Zombie'
+[22:59:31] [Server thread/INFO]: Villager cmk['Villager'/12683, l='ServerLevel[world]', x=110.01, y=62.86, z=-1131.70] died, message: 'Villager suffocated in a wall'
+[23:13:02] [Server thread/INFO]: nokdra lost connection: Disconnected
+[23:13:02] [Server thread/INFO]: nokdra left the game
+[23:24:28] [Server thread/INFO]: Stopping the server
+[23:24:28] [Server thread/INFO]: Stopping server
+[23:24:28] [Server thread/INFO]: Saving players
+[23:24:28] [Server thread/INFO]: Saving worlds
+[23:24:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23:24:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23:24:29] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23:24:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23:24:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23:24:29] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23:24:29] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
