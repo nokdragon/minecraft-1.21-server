@@ -58,7 +58,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:soul_sand_valley": "2024-06-28 14:56:52 +0200",
-      "minecraft:nether_wastes": "2024-07-01 20:41:54 +0200"
+      "minecraft:nether_wastes": "2024-07-01 20:41:54 +0200",
+      "minecraft:basalt_deltas": "2024-07-11 11:59:24 +0200"
     },
     "done": false
   },
@@ -331,6 +332,7 @@
       "minecraft:breeze": "2024-07-04 12:16:08 +0200",
       "minecraft:enderman": "2024-06-29 16:30:09 +0200",
       "minecraft:silverfish": "2024-07-09 22:43:41 +0200",
+      "minecraft:stray": "2024-07-11 11:41:06 +0200",
       "minecraft:magma_cube": "2024-07-01 19:46:14 +0200",
       "minecraft:spider": "2024-06-29 12:43:37 +0200",
       "minecraft:zombie": "2024-06-29 12:30:00 +0200",
@@ -3069,6 +3071,78 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2024-07-10 22:10:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-07-11 11:02:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2024-07-11 11:02:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-07-11 11:03:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-07-11 11:03:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-07-11 11:18:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2024-07-11 11:18:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-07-11 11:33:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-07-11 11:48:41 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-07-11 12:00:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-07-11 12:00:58 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/revaulting": {
+    "criteria": {
+      "revaulting": "2024-07-11 12:16:49 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-07-11 12:16:51 +0200"
     },
     "done": true
   },
