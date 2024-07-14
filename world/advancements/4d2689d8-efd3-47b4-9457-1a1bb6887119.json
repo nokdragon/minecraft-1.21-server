@@ -970,6 +970,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:phantom": "2024-07-14 12:24:47 +0200",
       "minecraft:zombie": "2024-07-13 17:59:49 +0200"
     },
     "done": false
