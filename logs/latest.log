@@ -1,75 +1,39 @@
-[18:09:40] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:09:41] [ServerMain/INFO]: Loaded 1290 recipes
-[18:09:42] [ServerMain/INFO]: Loaded 1399 advancements
-[18:09:42] [Server thread/INFO]: Starting minecraft server version 1.21
-[18:09:42] [Server thread/INFO]: Loading properties
-[18:09:42] [Server thread/INFO]: Default game type: SURVIVAL
-[18:09:42] [Server thread/INFO]: Generating keypair
-[18:09:42] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:09:42] [Server thread/INFO]: Using default channel type
-[18:09:42] [Server thread/INFO]: Preparing level "world"
-[18:09:43] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:09:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:09:44] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[18:09:44] [Server thread/INFO]: Time elapsed: 980 ms
-[18:09:44] [Server thread/INFO]: Done (1.513s)! For help, type "help"
-[18:09:58] [User Authenticator #1/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
-[18:09:59] [Server thread/INFO]: nokdra[/127.0.0.1:60913] logged in with entity id 276 at (101.53252562582007, 66.0, -1146.6736446811778)
-[18:09:59] [Server thread/INFO]: nokdra joined the game
-[18:10:14] [User Authenticator #2/INFO]: UUID of player Maruskah is 4d2689d8-efd3-47b4-9457-1a1bb6887119
-[18:10:14] [Server thread/INFO]: Maruskah[/192.168.1.66:59717] logged in with entity id 301 at (96.68455292020043, 65.0, -1124.2383978866678)
-[18:10:14] [Server thread/INFO]: Maruskah joined the game
-[18:38:51] [Server thread/INFO]: Villager cmk['Villager'/1657, l='ServerLevel[world]', x=111.51, y=62.00, z=-1131.05] died, message: 'Villager suffocated in a wall'
-[19:22:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5107, y=77, z=-1627} jd{x=5103, y=68, z=-1634}
-[19:22:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=5107, y=77, z=-1627} jd{x=5103, y=68, z=-1634}
-[19:53:02] [Server thread/INFO]: Villager cmk['Villager'/41862, l='ServerLevel[world]', x=110.94, y=63.00, z=-1130.70] died, message: 'Villager suffocated in a wall'
-[19:55:12] [Server thread/INFO]: nokdra lost connection: Disconnected
-[19:55:12] [Server thread/INFO]: nokdra left the game
-[19:55:32] [User Authenticator #3/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
-[19:55:32] [Server thread/INFO]: nokdra[/127.0.0.1:64481] logged in with entity id 45159 at (74.79152656191953, 65.0, -1173.3397866114892)
-[19:55:32] [Server thread/INFO]: nokdra joined the game
-[20:04:27] [Server thread/INFO]: Villager cmk['Villager'/43382, l='ServerLevel[world]', x=111.30, y=63.05, z=-1131.50] died, message: 'Villager suffocated in a wall'
-[20:12:49] [Server thread/INFO]: nokdra has made the advancement [Total Beelocation]
-[20:34:47] [Server thread/INFO]: Maruskah lost connection: Disconnected
-[20:34:47] [Server thread/INFO]: Maruskah left the game
-[20:34:58] [User Authenticator #4/INFO]: UUID of player Maruskah is 4d2689d8-efd3-47b4-9457-1a1bb6887119
-[20:34:59] [Server thread/INFO]: Maruskah[/192.168.1.66:62061] logged in with entity id 54067 at (95.82552372308264, 77.0, -1112.5649077453174)
-[20:34:59] [Server thread/INFO]: Maruskah joined the game
-[20:46:51] [Server thread/INFO]: Villager cmk['Villager'/53052, l='ServerLevel[world]', x=111.30, y=63.00, z=-1131.50] died, message: 'Villager suffocated in a wall'
-[20:51:44] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=151, y=64, z=-536} jd{x=149, y=64, z=-538}
-[20:55:18] [Server thread/INFO]: Villager cmk['Villager'/54113, l='ServerLevel[world]', x=109.94, y=63.04, z=-1130.70] died, message: 'Villager suffocated in a wall'
-[21:18:11] [Server thread/INFO]: [nokdra: Set the weather to clear]
-[21:19:26] [Server thread/INFO]: Villager cmk['Villager'/138, l='ServerLevel[world]', x=163.49, y=78.97, z=-1087.70] died, message: 'Villager was slain by Zombie'
-[21:23:56] [Server thread/INFO]: Maruskah lost connection: Disconnected
-[21:23:56] [Server thread/INFO]: Maruskah left the game
-[21:23:59] [User Authenticator #5/INFO]: UUID of player Maruskah is 4d2689d8-efd3-47b4-9457-1a1bb6887119
-[21:24:00] [Server thread/INFO]: Maruskah[/192.168.1.66:52446] logged in with entity id 71903 at (95.97696812733761, 70.0, -1117.3490422600887)
-[21:24:00] [Server thread/INFO]: Maruskah joined the game
-[21:35:54] [Server thread/INFO]: Villager cmk['Villager'/69360, l='ServerLevel[world]', x=109.73, y=63.02, z=-1130.56] died, message: 'Villager suffocated in a wall'
-[21:42:45] [Server thread/INFO]: Villager cmk['Villager'/22864, l='ServerLevel[world]', x=108.84, y=65.00, z=-1136.12] died, message: 'Villager was squished too much'
-[21:44:28] [Server thread/INFO]: Villager cmk['Villager'/71944, l='ServerLevel[world]', x=111.30, y=63.00, z=-1131.50] died, message: 'Villager suffocated in a wall'
-[21:44:53] [Server thread/INFO]: Villager cmk['Villager'/61, l='ServerLevel[world]', x=108.87, y=65.00, z=-1136.14] died, message: 'Villager was squished too much'
-[21:49:38] [Server thread/INFO]: Villager cmk['Villager'/56, l='ServerLevel[world]', x=108.86, y=65.00, z=-1136.10] died, message: 'Villager was squished too much'
-[21:49:39] [Server thread/INFO]: Villager cmk['Villager'/67, l='ServerLevel[world]', x=108.84, y=65.00, z=-1136.18] died, message: 'Villager was squished too much'
-[21:50:06] [Server thread/INFO]: Villager cmk['Villager'/17, l='ServerLevel[world]', x=108.30, y=65.00, z=-1136.70] died, message: 'Villager was squished too much'
-[21:55:41] [Server thread/INFO]: Maruskah lost connection: Disconnected
-[21:55:41] [Server thread/INFO]: Maruskah left the game
-[21:55:47] [User Authenticator #6/INFO]: UUID of player Maruskah is 4d2689d8-efd3-47b4-9457-1a1bb6887119
-[21:55:47] [Server thread/INFO]: Maruskah[/192.168.1.66:52635] logged in with entity id 77686 at (96.23494561003972, 70.0, -1116.1118092960833)
-[21:55:47] [Server thread/INFO]: Maruskah joined the game
-[22:06:52] [Server thread/INFO]: Villager cmk['Villager'/76028, l='ServerLevel[world]', x=109.79, y=63.04, z=-1130.70] died, message: 'Villager suffocated in a wall'
-[22:07:40] [Server thread/INFO]: Maruskah lost connection: Disconnected
-[22:07:40] [Server thread/INFO]: Maruskah left the game
-[22:07:41] [Server thread/INFO]: nokdra lost connection: Disconnected
-[22:07:41] [Server thread/INFO]: nokdra left the game
-[22:07:57] [Server thread/INFO]: Stopping the server
-[22:07:57] [Server thread/INFO]: Stopping server
-[22:07:57] [Server thread/INFO]: Saving players
-[22:07:57] [Server thread/INFO]: Saving worlds
-[22:07:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[22:07:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[22:07:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[22:07:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[22:07:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[22:07:58] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[22:07:58] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:50:16] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:50:17] [ServerMain/INFO]: Loaded 1290 recipes
+[09:50:18] [ServerMain/INFO]: Loaded 1399 advancements
+[09:50:18] [Server thread/INFO]: Starting minecraft server version 1.21
+[09:50:18] [Server thread/INFO]: Loading properties
+[09:50:18] [Server thread/INFO]: Default game type: SURVIVAL
+[09:50:18] [Server thread/INFO]: Generating keypair
+[09:50:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:50:18] [Server thread/INFO]: Using default channel type
+[09:50:18] [Server thread/INFO]: Preparing level "world"
+[09:50:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:50:19] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[09:50:20] [Worker-Main-11/INFO]: Preparing spawn area: 5%
+[09:50:20] [Server thread/INFO]: Time elapsed: 975 ms
+[09:50:20] [Server thread/INFO]: Done (1.490s)! For help, type "help"
+[09:51:09] [User Authenticator #1/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[09:51:09] [Server thread/INFO]: nokdra[/127.0.0.1:49895] logged in with entity id 278 at (105.15648108372882, 58.0, -1137.7065889820933)
+[09:51:09] [Server thread/INFO]: nokdra joined the game
+[10:01:51] [Server thread/INFO]: Villager cmk['Villager'/32, l='ServerLevel[world]', x=111.30, y=63.00, z=-1131.50] died, message: 'Villager suffocated in a wall'
+[10:08:57] [Server thread/INFO]: Villager cmk['Villager'/36, l='ServerLevel[world]', x=108.85, y=65.00, z=-1136.13] died, message: 'Villager was squished too much'
+[10:09:26] [Server thread/INFO]: Villager cmk['Villager'/38, l='ServerLevel[world]', x=108.30, y=65.00, z=-1136.15] died, message: 'Villager was squished too much'
+[10:11:46] [Server thread/INFO]: [nokdra: Set own game mode to Spectator Mode]
+[10:13:11] [Server thread/INFO]: [nokdra: Set own game mode to Survival Mode]
+[10:19:49] [Server thread/INFO]: [nokdra: Set own game mode to Creative Mode]
+[10:20:00] [Server thread/INFO]: [nokdra: Set own game mode to Survival Mode]
+[10:36:13] [Server thread/INFO]: Villager cmk['Villager'/5191, l='ServerLevel[world]', x=111.30, y=63.00, z=-1131.50] died, message: 'Villager suffocated in a wall'
+[10:39:42] [Server thread/INFO]: nokdra lost connection: Disconnected
+[10:39:42] [Server thread/INFO]: nokdra left the game
+[10:39:50] [Server thread/INFO]: Stopping the server
+[10:39:50] [Server thread/INFO]: Stopping server
+[10:39:50] [Server thread/INFO]: Saving players
+[10:39:50] [Server thread/INFO]: Saving worlds
+[10:39:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10:39:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10:39:50] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10:39:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10:39:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10:39:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10:39:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
