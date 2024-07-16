@@ -1,84 +1,140 @@
-[19:00:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[19:00:03] [ServerMain/INFO]: Loaded 1290 recipes
-[19:00:03] [ServerMain/INFO]: Loaded 1399 advancements
-[19:00:05] [Server thread/INFO]: Starting minecraft server version 1.21
-[19:00:05] [Server thread/INFO]: Loading properties
-[19:00:05] [Server thread/INFO]: Default game type: SURVIVAL
-[19:00:05] [Server thread/INFO]: Generating keypair
-[19:00:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:00:05] [Server thread/INFO]: Using default channel type
-[19:00:05] [Server thread/INFO]: Preparing level "world"
-[19:00:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:00:06] [Worker-Main-10/INFO]: Preparing spawn area: 0%
-[19:00:06] [Worker-Main-6/INFO]: Preparing spawn area: 5%
-[19:00:07] [Server thread/INFO]: Time elapsed: 1150 ms
-[19:00:07] [Server thread/INFO]: Done (1.813s)! For help, type "help"
-[19:02:44] [User Authenticator #1/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
-[19:02:44] [Server thread/INFO]: nokdra[/127.0.0.1:61714] logged in with entity id 297 at (145.00845722289287, 69.0, -1123.654650635433)
-[19:02:44] [Server thread/INFO]: nokdra joined the game
-[19:16:19] [Server thread/INFO]: Villager cmk['Villager'/21, l='ServerLevel[world]', x=108.84, y=65.00, z=-1136.70] died, message: 'Villager was squished too much'
-[19:21:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=145, y=15, z=-127} jd{x=145, y=15, z=-128}
-[19:21:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=145, y=15, z=-127} jd{x=145, y=15, z=-128}
-[19:21:48] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=145, y=15, z=-127} jd{x=145, y=15, z=-128}
-[19:21:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=145, y=15, z=-127} jd{x=145, y=15, z=-128}
-[19:21:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=145, y=15, z=-127} jd{x=145, y=15, z=-128}
-[19:21:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=145, y=15, z=-127} jd{x=145, y=15, z=-128}
-[19:21:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=145, y=15, z=-127} jd{x=145, y=15, z=-128}
-[19:23:45] [Server thread/INFO]: nokdra has made the advancement [Hidden in the Depths]
-[19:24:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:06] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:24:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=175, y=17, z=-117} jd{x=174, y=17, z=-117}
-[19:31:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=187, y=15, z=-152} jd{x=187, y=15, z=-153}
-[19:31:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=187, y=15, z=-152} jd{x=187, y=15, z=-153}
-[19:31:32] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=187, y=15, z=-152} jd{x=187, y=15, z=-153}
-[19:33:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=179, y=13, z=-200} jd{x=182, y=16, z=-202}
-[19:33:34] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=179, y=13, z=-200} jd{x=182, y=16, z=-202}
-[19:33:36] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=180, y=17, z=-205} jd{x=181, y=17, z=-206}
-[19:46:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=379, y=14, z=-172} jd{x=379, y=15, z=-165}
-[19:46:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=379, y=14, z=-172} jd{x=379, y=15, z=-165}
-[19:46:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=379, y=14, z=-172} jd{x=379, y=15, z=-165}
-[19:46:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=379, y=14, z=-172} jd{x=379, y=15, z=-165}
-[19:46:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=379, y=14, z=-172} jd{x=379, y=15, z=-165}
-[19:46:41] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=379, y=14, z=-172} jd{x=379, y=15, z=-165}
-[19:51:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=385, y=17, z=-99} jd{x=386, y=16, z=-100}
-[19:51:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=385, y=17, z=-99} jd{x=386, y=16, z=-100}
-[19:51:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=385, y=17, z=-99} jd{x=386, y=16, z=-100}
-[19:51:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=385, y=17, z=-99} jd{x=386, y=16, z=-100}
-[19:51:57] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=385, y=17, z=-99} jd{x=386, y=16, z=-100}
-[19:51:58] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=384, y=16, z=-99} jd{x=385, y=16, z=-100}
-[19:55:27] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=372, y=12, z=-68} jd{x=372, y=11, z=-68}
-[20:06:27] [Server thread/INFO]: nokdra lost connection: Disconnected
-[20:06:27] [Server thread/INFO]: nokdra left the game
-[20:06:51] [Server thread/INFO]: Stopping the server
-[20:06:51] [Server thread/INFO]: Stopping server
-[20:06:51] [Server thread/INFO]: Saving players
-[20:06:51] [Server thread/INFO]: Saving worlds
-[20:06:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[20:06:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[20:06:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[20:06:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[20:06:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[20:06:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[20:06:51] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[18:55:02] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:55:03] [ServerMain/INFO]: Loaded 1290 recipes
+[18:55:03] [ServerMain/INFO]: Loaded 1399 advancements
+[18:55:04] [Server thread/INFO]: Starting minecraft server version 1.21
+[18:55:04] [Server thread/INFO]: Loading properties
+[18:55:04] [Server thread/INFO]: Default game type: SURVIVAL
+[18:55:04] [Server thread/INFO]: Generating keypair
+[18:55:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:55:04] [Server thread/INFO]: Using default channel type
+[18:55:04] [Server thread/INFO]: Preparing level "world"
+[18:55:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:55:05] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[18:55:05] [Worker-Main-12/INFO]: Preparing spawn area: 9%
+[18:55:06] [Server thread/INFO]: Time elapsed: 958 ms
+[18:55:06] [Server thread/INFO]: Done (1.485s)! For help, type "help"
+[18:55:49] [User Authenticator #1/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[18:55:50] [Server thread/INFO]: nokdra[/127.0.0.1:60018] logged in with entity id 296 at (144.2022243424638, 66.0, -1118.3060393195267)
+[18:55:50] [Server thread/INFO]: nokdra joined the game
+[19:11:41] [Server thread/INFO]: nokdra has made the advancement [War Pigs]
+[19:29:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=183, y=14, z=-157} jd{x=182, y=14, z=-156}
+[19:29:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=183, y=14, z=-157} jd{x=182, y=14, z=-156}
+[19:29:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=183, y=14, z=-157} jd{x=182, y=14, z=-156}
+[19:29:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=183, y=14, z=-157} jd{x=182, y=14, z=-156}
+[19:32:42] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=168, y=14, z=-67} jd{x=166, y=12, z=-68}
+[19:35:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:49] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:50] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:35:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=163, y=14, z=-10} jd{x=158, y=16, z=-10}
+[19:39:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=140, y=15, z=76} jd{x=142, y=15, z=75}
+[19:39:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=140, y=15, z=76} jd{x=142, y=15, z=75}
+[19:39:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=140, y=15, z=76} jd{x=142, y=15, z=75}
+[19:39:45] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=140, y=15, z=76} jd{x=142, y=15, z=75}
+[19:41:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=143, y=16, z=122} jd{x=144, y=15, z=121}
+[19:41:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=143, y=16, z=122} jd{x=144, y=15, z=121}
+[19:41:21] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=143, y=16, z=122} jd{x=144, y=15, z=121}
+[19:41:23] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=144, y=16, z=126} jd{x=143, y=15, z=126}
+[19:45:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=103, y=16, z=189} jd{x=103, y=16, z=188}
+[19:45:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=103, y=16, z=189} jd{x=103, y=16, z=188}
+[19:45:24] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=103, y=16, z=189} jd{x=103, y=16, z=188}
+[19:45:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=102, y=16, z=189} jd{x=102, y=15, z=190}
+[19:45:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=102, y=16, z=189} jd{x=102, y=15, z=190}
+[19:45:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=102, y=16, z=189} jd{x=102, y=15, z=190}
+[19:45:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=102, y=16, z=189} jd{x=102, y=15, z=190}
+[19:45:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=102, y=16, z=189} jd{x=102, y=15, z=190}
+[19:45:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:25] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:45:26] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=101, y=16, z=190} jd{x=103, y=16, z=189}
+[19:51:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=221, y=16, z=185} jd{x=223, y=15, z=185}
+[19:51:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:51:38] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:51:39] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=223, y=16, z=186} jd{x=224, y=16, z=185}
+[19:52:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=246, y=15, z=204} jd{x=247, y=15, z=205}
+[19:52:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=246, y=15, z=204} jd{x=247, y=15, z=205}
+[19:52:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=246, y=15, z=204} jd{x=247, y=15, z=205}
+[19:52:59] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=246, y=15, z=204} jd{x=247, y=15, z=205}
+[19:53:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=244, y=16, z=204} jd{x=243, y=16, z=203}
+[19:53:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=244, y=16, z=204} jd{x=243, y=16, z=203}
+[19:53:00] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=244, y=16, z=204} jd{x=243, y=16, z=203}
+[19:56:13] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=142, y=17, z=136} jd{x=142, y=17, z=135}
+[19:56:51] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=139, y=17, z=71} jd{x=138, y=17, z=71}
+[19:57:15] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=139, y=15, z=31} jd{x=138, y=15, z=31}
+[20:07:53] [Server thread/INFO]: nokdra has completed the challenge [Cover Me in Debris]
+[20:14:43] [Server thread/INFO]: Villager cmk['Villager'/51, l='ServerLevel[world]', x=108.90, y=65.00, z=-1136.11] died, message: 'Villager was squished too much'
+[20:28:01] [Server thread/INFO]: Villager cmk['Villager'/50, l='ServerLevel[world]', x=108.88, y=65.00, z=-1136.11] died, message: 'Villager was squished too much'
+[20:30:17] [Server thread/INFO]: Villager cmk['Villager'/26, l='ServerLevel[world]', x=108.90, y=65.00, z=-1136.17] died, message: 'Villager was squished too much'
+[20:30:34] [Server thread/INFO]: Villager cmk['Villager'/22, l='ServerLevel[world]', x=108.85, y=65.00, z=-1136.70] died, message: 'Villager was squished too much'
+[20:31:41] [Server thread/INFO]: nokdra lost connection: Disconnected
+[20:31:41] [Server thread/INFO]: nokdra left the game
+[20:48:12] [User Authenticator #2/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[20:48:13] [Server thread/INFO]: nokdra[/127.0.0.1:63998] logged in with entity id 43260 at (144.45410863304193, 60.0, -1124.8235585682223)
+[20:48:13] [Server thread/INFO]: nokdra joined the game
+[20:57:22] [Server thread/INFO]: nokdra lost connection: Disconnected
+[20:57:22] [Server thread/INFO]: nokdra left the game
+[20:57:30] [Server thread/INFO]: Stopping the server
+[20:57:30] [Server thread/INFO]: Stopping server
+[20:57:30] [Server thread/INFO]: Saving players
+[20:57:30] [Server thread/INFO]: Saving worlds
+[20:57:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:57:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:57:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:57:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:57:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:57:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:57:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
