@@ -1,39 +1,48 @@
-[14:15:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[14:15:55] [ServerMain/INFO]: Loaded 1290 recipes
-[14:15:55] [ServerMain/INFO]: Loaded 1399 advancements
-[14:15:56] [Server thread/INFO]: Starting minecraft server version 1.21
-[14:15:56] [Server thread/INFO]: Loading properties
-[14:15:56] [Server thread/INFO]: Default game type: SURVIVAL
-[14:15:56] [Server thread/INFO]: Generating keypair
-[14:15:56] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:15:56] [Server thread/INFO]: Using default channel type
-[14:15:56] [Server thread/INFO]: Preparing level "world"
-[14:15:56] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:15:56] [Worker-Main-12/INFO]: Preparing spawn area: 0%
-[14:15:57] [Worker-Main-14/INFO]: Preparing spawn area: 10%
-[14:15:57] [Server thread/INFO]: Time elapsed: 926 ms
-[14:15:57] [Server thread/INFO]: Done (1.396s)! For help, type "help"
-[14:19:54] [User Authenticator #1/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
-[14:19:55] [Server thread/INFO]: nokdra[/127.0.0.1:54373] logged in with entity id 607 at (130.41028199677186, 64.0, -1186.7560034558323)
-[14:19:55] [Server thread/INFO]: nokdra joined the game
-[14:26:22] [Server thread/INFO]: Villager cmk['Villager'/29, l='ServerLevel[world]', x=108.83, y=65.00, z=-1136.11] died, message: 'Villager was squished too much'
-[14:28:40] [Server thread/INFO]: nokdra lost connection: Disconnected
-[14:28:40] [Server thread/INFO]: nokdra left the game
-[14:31:54] [User Authenticator #2/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
-[14:31:55] [Server thread/INFO]: nokdra[/127.0.0.1:51591] logged in with entity id 4655 at (135.4167084704291, 34.0, -1202.1319122386246)
-[14:31:55] [Server thread/INFO]: nokdra joined the game
-[15:05:31] [Server thread/INFO]: Villager cmk['Villager'/33, l='ServerLevel[world]', x=108.88, y=65.00, z=-1136.13] died, message: 'Villager was squished too much'
-[15:16:00] [Server thread/INFO]: Villager cmk['Villager'/31, l='ServerLevel[world]', x=108.81, y=65.00, z=-1136.11] died, message: 'Villager was squished too much'
-[15:21:28] [Server thread/INFO]: nokdra lost connection: Disconnected
-[15:21:28] [Server thread/INFO]: nokdra left the game
-[15:21:36] [Server thread/INFO]: Stopping the server
-[15:21:36] [Server thread/INFO]: Stopping server
-[15:21:36] [Server thread/INFO]: Saving players
-[15:21:36] [Server thread/INFO]: Saving worlds
-[15:21:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[15:21:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[15:21:36] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[15:21:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[15:21:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[15:21:36] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[15:21:36] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:54:23] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:54:24] [ServerMain/INFO]: Loaded 1290 recipes
+[15:54:24] [ServerMain/INFO]: Loaded 1399 advancements
+[15:54:25] [Server thread/INFO]: Starting minecraft server version 1.21
+[15:54:25] [Server thread/INFO]: Loading properties
+[15:54:25] [Server thread/INFO]: Default game type: SURVIVAL
+[15:54:25] [Server thread/INFO]: Generating keypair
+[15:54:25] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:54:25] [Server thread/INFO]: Using default channel type
+[15:54:25] [Server thread/INFO]: Preparing level "world"
+[15:54:26] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:54:26] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:54:26] [Worker-Main-12/INFO]: Preparing spawn area: 1%
+[15:54:27] [Server thread/INFO]: Time elapsed: 978 ms
+[15:54:27] [Server thread/INFO]: Done (1.474s)! For help, type "help"
+[15:55:06] [User Authenticator #1/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[15:55:07] [Server thread/INFO]: nokdra[/127.0.0.1:52447] logged in with entity id 630 at (130.74710751885803, 64.0, -1181.8616799334152)
+[15:55:07] [Server thread/INFO]: nokdra joined the game
+[15:59:22] [Server thread/INFO]: Villager cmk['Villager'/57, l='ServerLevel[world]', x=108.86, y=65.00, z=-1136.31] died, message: 'Villager was squished too much'
+[16:25:18] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=128, y=59, z=-1192} jd{x=129, y=60, z=-1192}
+[16:51:19] [Server thread/INFO]: Villager cmk['Villager'/56, l='ServerLevel[world]', x=108.88, y=65.00, z=-1136.14] died, message: 'Villager was squished too much'
+[17:00:58] [Server thread/INFO]: Villager cmk['Villager'/50, l='ServerLevel[world]', x=108.85, y=65.00, z=-1136.10] died, message: 'Villager was squished too much'
+[17:01:32] [Server thread/INFO]: nokdra lost connection: Disconnected
+[17:01:32] [Server thread/INFO]: nokdra left the game
+[17:04:47] [User Authenticator #2/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[17:04:48] [Server thread/INFO]: nokdra[/192.168.1.1:52703] logged in with entity id 20049 at (126.0314480390377, 64.0, -1182.2078679999427)
+[17:04:48] [Server thread/INFO]: nokdra joined the game
+[17:07:28] [Server thread/INFO]: nokdra lost connection: Disconnected
+[17:07:28] [Server thread/INFO]: nokdra left the game
+[17:17:51] [User Authenticator #3/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[17:17:52] [Server thread/INFO]: nokdra[/192.168.1.1:52776] logged in with entity id 20436 at (125.75430065678071, 64.0, -1178.3101056010769)
+[17:17:52] [Server thread/INFO]: nokdra joined the game
+[17:52:37] [Server thread/INFO]: Villager cmk['Villager'/51, l='ServerLevel[world]', x=108.86, y=65.00, z=-1136.11] died, message: 'Villager was squished too much'
+[17:54:12] [Server thread/INFO]: Villager cmk['Villager'/49, l='ServerLevel[world]', x=108.84, y=65.00, z=-1136.11] died, message: 'Villager was squished too much'
+[18:16:37] [Server thread/INFO]: Villager cmk['Villager'/6060, l='ServerLevel[world]', x=108.82, y=65.00, z=-1136.10] died, message: 'Villager was squished too much'
+[18:24:35] [Server thread/INFO]: nokdra lost connection: Disconnected
+[18:24:35] [Server thread/INFO]: nokdra left the game
+[18:24:44] [Server thread/INFO]: Stopping the server
+[18:24:44] [Server thread/INFO]: Stopping server
+[18:24:44] [Server thread/INFO]: Saving players
+[18:24:44] [Server thread/INFO]: Saving worlds
+[18:24:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[18:24:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[18:24:44] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[18:24:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[18:24:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[18:24:44] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[18:24:44] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
