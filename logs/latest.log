@@ -1,39 +1,44 @@
-[15:22:58] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[15:22:59] [ServerMain/INFO]: Loaded 1290 recipes
-[15:23:00] [ServerMain/INFO]: Loaded 1399 advancements
-[15:23:00] [Server thread/INFO]: Starting minecraft server version 1.21
-[15:23:00] [Server thread/INFO]: Loading properties
-[15:23:00] [Server thread/INFO]: Default game type: SURVIVAL
-[15:23:00] [Server thread/INFO]: Generating keypair
-[15:23:00] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:23:00] [Server thread/INFO]: Using default channel type
-[15:23:00] [Server thread/INFO]: Preparing level "world"
-[15:23:01] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:23:01] [Worker-Main-11/INFO]: Preparing spawn area: 0%
-[15:23:01] [Worker-Main-10/INFO]: Preparing spawn area: 16%
-[15:23:02] [Server thread/INFO]: Time elapsed: 920 ms
-[15:23:02] [Server thread/INFO]: Done (1.404s)! For help, type "help"
-[15:28:34] [User Authenticator #1/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
-[15:28:35] [Server thread/INFO]: nokdra[/127.0.0.1:55808] logged in with entity id 434 at (143.38660420849476, 67.0, -1122.5033910140376)
-[15:28:35] [Server thread/INFO]: nokdra joined the game
-[15:50:11] [Server thread/INFO]: Villager cmk['Villager'/49, l='ServerLevel[world]', x=108.81, y=65.00, z=-1136.12] died, message: 'Villager was squished too much'
-[16:03:10] [Server thread/INFO]: Villager cmk['Villager'/42, l='ServerLevel[world]', x=108.30, y=65.00, z=-1136.16] died, message: 'Villager was squished too much'
-[16:05:06] [Server thread/INFO]: Villager cmk['Villager'/47, l='ServerLevel[world]', x=108.89, y=65.00, z=-1136.12] died, message: 'Villager was squished too much'
-[16:09:13] [Server thread/INFO]: Villager cmk['Villager'/40, l='ServerLevel[world]', x=108.90, y=65.00, z=-1136.13] died, message: 'Villager was squished too much'
-[16:29:07] [Server thread/WARN]: Mismatch in destroy block pos: jd{x=276, y=-38, z=-1215} jd{x=278, y=-38, z=-1215}
-[16:29:07] [Server thread/INFO]: Villager cmk['Villager'/46, l='ServerLevel[world]', x=108.88, y=65.00, z=-1136.11] died, message: 'Villager was squished too much'
-[16:33:13] [Server thread/INFO]: [nokdra: Gave 30 [Oak Log] to nokdra]
-[16:44:54] [Server thread/INFO]: Villager cmk['Villager'/43, l='ServerLevel[world]', x=108.69, y=65.00, z=-1136.13] died, message: 'Villager was squished too much'
-[17:10:22] [Server thread/INFO]: nokdra lost connection: Disconnected
-[17:10:22] [Server thread/INFO]: nokdra left the game
-[17:10:30] [Server thread/INFO]: Stopping the server
-[17:10:30] [Server thread/INFO]: Stopping server
-[17:10:30] [Server thread/INFO]: Saving players
-[17:10:30] [Server thread/INFO]: Saving worlds
-[17:10:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[17:10:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[17:10:30] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[17:10:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[17:10:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[17:10:30] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[17:10:30] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:02:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:02:35] [ServerMain/INFO]: Loaded 1290 recipes
+[22:02:35] [ServerMain/INFO]: Loaded 1399 advancements
+[22:02:35] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:02:35] [Server thread/INFO]: Loading properties
+[22:02:35] [Server thread/INFO]: Default game type: SURVIVAL
+[22:02:35] [Server thread/INFO]: Generating keypair
+[22:02:35] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:02:36] [Server thread/INFO]: Using default channel type
+[22:02:36] [Server thread/INFO]: Preparing level "world"
+[22:02:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:02:36] [Worker-Main-12/INFO]: Preparing spawn area: 0%
+[22:02:37] [Worker-Main-7/INFO]: Preparing spawn area: 9%
+[22:02:37] [Server thread/INFO]: Time elapsed: 995 ms
+[22:02:37] [Server thread/INFO]: Done (1.512s)! For help, type "help"
+[22:03:27] [User Authenticator #1/INFO]: UUID of player SENJlN is da2f76ed-8bad-4e62-a471-1bc6d4389974
+[22:03:28] [Server thread/INFO]: SENJlN[/83.159.14.33:55270] logged in with entity id 296 at (99.5, 65.0, -1154.5)
+[22:03:28] [Server thread/INFO]: SENJlN joined the game
+[22:03:42] [User Authenticator #2/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[22:03:43] [Server thread/INFO]: nokdra[/192.168.1.1:62374] logged in with entity id 337 at (131.87222722624946, 64.0, -1181.8423627919992)
+[22:03:43] [Server thread/INFO]: nokdra joined the game
+[22:11:31] [Server thread/INFO]: nokdra lost connection: Disconnected
+[22:11:31] [Server thread/INFO]: nokdra left the game
+[22:14:14] [Server thread/INFO]: SENJlN has made the advancement [A Seedy Place]
+[22:16:34] [Server thread/INFO]: SENJlN has made the advancement [Stone Age]
+[22:16:59] [Server thread/INFO]: SENJlN has made the advancement [Getting an Upgrade]
+[22:18:06] [Server thread/INFO]: SENJlN lost connection: Disconnected
+[22:18:06] [Server thread/INFO]: SENJlN left the game
+[22:20:03] [User Authenticator #3/INFO]: UUID of player nokdra is 46e57290-61dd-4026-96eb-cf48ac3eed3d
+[22:20:03] [Server thread/INFO]: nokdra[/192.168.1.1:62466] logged in with entity id 7165 at (136.10826770721138, 64.0, -1171.3708090200078)
+[22:20:03] [Server thread/INFO]: nokdra joined the game
+[22:20:07] [Server thread/INFO]: nokdra lost connection: Disconnected
+[22:20:07] [Server thread/INFO]: nokdra left the game
+[22:20:15] [Server thread/INFO]: Stopping the server
+[22:20:15] [Server thread/INFO]: Stopping server
+[22:20:15] [Server thread/INFO]: Saving players
+[22:20:15] [Server thread/INFO]: Saving worlds
+[22:20:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:20:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:20:15] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:20:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:20:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:20:15] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:20:15] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
